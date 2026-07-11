@@ -13,7 +13,7 @@ Welcome to my profile! I'm a developer who loves solving problems and competitiv
     <td align="center" width="50%">
       <h3>Codeforces</h3>
       <a href="https://codeforces.com/profile/Shreshth_Malhotra">
-        <img src="https://img.shields.io/badge/Codeforces-Shreshth__Malhotra-445A65?style=for-the-badge&logo=Codeforces&logoColor=white" alt="Codeforces Profile" />
+        <img src="https://codeforces-readme-stats.vercel.app/api/card?username=Shreshth_Malhotra&theme=dark" />
       </a>
     </td>
   </tr>
