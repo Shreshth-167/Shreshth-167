@@ -7,14 +7,14 @@ Welcome to my profile! I'm a developer who loves solving problems.
 <table>
   <tr>
     <td valign="top" width="50%">
-      <img src="https://github-readme-leetcode.vercel.app/?username=YOUR_LEETCODE_USERNAME&theme=dark" alt="LeetCode Stats" />
+      <img src="https://leetcode-stats.vercel.app/api?username=Shreshth_167&theme=dark" alt="LeetCode Stats" />
     </td>
     <td valign="top" width="50%">
-      <img src="https://github-readme-codeforces.vercel.app/?username=YOUR_CODEFORCES_USERNAME" alt="Codeforces Stats" />
+      <img src="https://codeforces-readme-stats.vercel.app/api/card?username=Shreshth_Malhotra" alt="Codeforces Stats" />
     </td>
   </tr>
 </table>
 
 ### 🛠️ Connect with me:
-* **LeetCode:** [Profile Link](https://leetcode.com/u/Shreshth_167/)
-* **Codeforces:** [Profile Link](https://codeforces.com/profile/Shreshth_Malhotra)
+* **LeetCode:** [Shreshth_167](https://leetcode.com/u/Shreshth_167/)
+* **Codeforces:** [Shreshth_Malhotra](https://codeforces.com/profile/Shreshth_Malhotra)
