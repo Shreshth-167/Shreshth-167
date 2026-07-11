@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi there, I'm Shreshth! 👋
 
-<!--
-**Shreshth-167/Shreshth-167** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my profile! I'm a developer who loves solving problems.
 
-Here are some ideas to get you started:
+### 📊 Competitive Programming & Coding Stats
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <img src="https://github-readme-leetcode.vercel.app/?username=YOUR_LEETCODE_USERNAME&theme=dark" alt="LeetCode Stats" />
+    </td>
+    <td valign="top" width="50%">
+      <img src="https://github-readme-codeforces.vercel.app/?username=YOUR_CODEFORCES_USERNAME" alt="Codeforces Stats" />
+    </td>
+  </tr>
+</table>
+
+### 🛠️ Connect with me:
+* **LeetCode:** [Profile Link](https://leetcode.com/YOUR_LEETCODE_USERNAME)
+* **Codeforces:** [Profile Link](https://codeforces.com/profile/YOUR_CODEFORCES_USERNAME)
