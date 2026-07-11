@@ -6,11 +6,13 @@ Welcome to my profile! I'm a developer who loves solving problems.
 
 <table>
   <tr>
-    <td valign="top" width="50%">
+    <td valign="center" width="50%">
       <img src="https://leetcode-stats.vercel.app/api?username=Shreshth_167&theme=dark" alt="LeetCode Stats" />
     </td>
-    <td valign="top" width="50%">
-      <img src="https://github-readme-codeforces-rho.vercel.app/api?username=Shreshth_Malhotra&theme=dark" alt="Codeforces Stats" />
+    <td valign="center" width="50%" align="center">
+      <a href="https://codeforces.com/profile/Shreshth_Malhotra" target="_blank">
+        <img src="https://img.shields.io/badge/Codeforces-Shreshth__Malhotra-445A65?style=for-the-badge&logo=Codeforces&logoColor=white" alt="Codeforces Profile" />
+      </a>
     </td>
   </tr>
 </table>
