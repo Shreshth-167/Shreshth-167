@@ -16,5 +16,5 @@ Welcome to my profile! I'm a developer who loves solving problems.
 </table>
 
 ### 🛠️ Connect with me:
-* **LeetCode:** [Profile Link](https://leetcode.com/YOUR_LEETCODE_USERNAME)
-* **Codeforces:** [Profile Link](https://codeforces.com/profile/YOUR_CODEFORCES_USERNAME)
+* **LeetCode:** [Profile Link](https://leetcode.com/u/Shreshth_167/)
+* **Codeforces:** [Profile Link](https://codeforces.com/profile/Shreshth_Malhotra)
